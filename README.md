@@ -1,21 +1,6 @@
-# Churn_Prediction
-
 # 🧠 Churn Prediction System
 
 This project is a machine learning solution that predicts whether a customer will leave a bank based on their profile and activity. By analyzing key factors using classification models, it supports strategic retention decisions for banks.
-
----
-
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Workflow](#workflow)
-- [Model Evaluation](#model-evaluation)
-- [Key Insights](#key-insights)
-- [Conclusion](#conclusion)
 
 ---
 
